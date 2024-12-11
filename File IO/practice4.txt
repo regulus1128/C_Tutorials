@@ -1,0 +1,3 @@
+this is a sample text for practice4.c
+Manchester city is dominating Chelsea
+today's date: 8/1/23

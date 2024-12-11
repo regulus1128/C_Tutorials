@@ -1,0 +1,1 @@
+printf("%d %d %d\n", *--ptr, *--ptr, *--ptr);
